@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Pixel Ribbon",
+  "base_artist": "Pixel Ribbon",
+  "createdAt": "2026-03-29T06:10:26.337723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pixel Affection",
+      "artist": "yeule",
+      "has_synced": true,
+      "path": "select/01_Pixel_Affection_yeule.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pixel",
+      "artist": "Verdena",
+      "has_synced": true,
+      "path": "select/02_Pixel_Verdena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Kills - PIXEL 82 Remix",
+      "artist": "Freddie Mercury",
+      "has_synced": false,
+      "path": "select/03_Love_Kills_-_PIXEL_82_Remix_Freddie_Mercury.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Disconnect the Dots (Mixel Pixel Remix)",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/04_Disconnect_the_Dots_(Mixel_Pixel_Remix)_of_Montreal.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pixel Ribbon",
+      "artist": "Pixel Ribbon",
+      "has_synced": false,
+      "path": "select/pl_01_Pixel_Ribbon_Pixel_Ribbon.txt"
+    }
+  ]
+}
